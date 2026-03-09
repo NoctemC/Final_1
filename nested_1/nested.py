@@ -1,0 +1,1 @@
+print("bu nested dosya kısmını git'e yollayacğaım")
